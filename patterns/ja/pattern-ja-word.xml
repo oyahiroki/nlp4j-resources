@@ -8,35 +8,23 @@
 	<!-- <w lex="/(が|は)/" /> : 正規形が「が」または「は」である単語 -->
 	<!-- <w upos="ADP" /> : Universal POSが ADP(助詞) である単語 -->
 	<!-- <w upos="NOUN" /> : Universal POSが NOUN(名詞) である単語 -->
-	<pattern facet="pattern.nounadj" value="{0.lex} ... {2.lex}">
-		<w id="2" upos="ADJ">
-			<w id="1" lex="/(が|は)/" upos="ADP">
-				<w id="0" upos="NOUN" />
-			</w>
-		</w>
-	</pattern>
-	<pattern facet="pattern.nounadj" value="{0.lex}{1.lex} ... {3.lex}">
-		<w id="3" upos="ADJ">
-			<w id="2" lex="/(が|は)/" upos="ADP">
-				<w id="1" upos="NOUN">
-					<w id="0" upos="NOUN" />
-				</w>
-			</w>
-		</w>
+
+	<pattern facet="word.noun" value="{0.lex}">
+		<w id="0" upos="NOUN" />
 	</pattern>
 
-	<pattern facet="pattern.nounadj" value="{0.lex} ... {2.lex}">
-		<w id="2" upos="ADJ">
+	<pattern facet="word.noun" value="{0.lex}{1.lex}">
+		<w id="1" upos="NOUN">
 			<w id="0" upos="NOUN" />
 		</w>
 	</pattern>
 
-	<pattern facet="pattern.nounadj" value="{0.lex}{1.lex} ... {2.lex}">
-		<w id="2" upos="ADJ">
-			<w id="1" upos="NOUN">
-				<w id="0" upos="NOUN" />
-			</w>
-		</w>
+	<pattern facet="word.adj" value="{0.lex}">
+		<w id="0" upos="ADJ" />
+	</pattern>
+
+	<pattern facet="word.verb" value="{0.lex}">
+		<w id="0" upos="VERB" />
 	</pattern>
 
 </patterns>
