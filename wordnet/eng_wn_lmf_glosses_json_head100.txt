@@ -1,0 +1,100 @@
+{"author":"Hiroki Oya","author_url":"https://nlp4j.org","url":"https://github.com/oyahiroki/nlp4j-resources/blob/main/wordnet/jpn_wn_lmf_glosses_json.txt","url_raw":"https://raw.githubusercontent.com/oyahiroki/nlp4j-resources/main/wordnet/jpn_wn_lmf_glosses_json.txt","license_url":"http://compling.hss.ntu.edu.sg/wnja/license.txt","license":"(temp)\n"}
+{"id":"oewn-0-a","item":"0","pos":"a","glosses":[],"synonyms":["zero"],"synonyms2":[["zero"]]}
+{"id":"oewn-1-a","item":"1","pos":"a","glosses":[],"synonyms":["ane","i","one"],"synonyms2":[["ane","i","one"]]}
+{"id":"oewn-10-a","item":"10","pos":"a","glosses":[],"synonyms":["ten","x"],"synonyms2":[["ten","x"]]}
+{"id":"oewn-10-membered-a","item":"10-membered","pos":"a","glosses":[],"synonyms":["ten-membered"],"synonyms2":[["ten-membered"]]}
+{"id":"oewn-100-a","item":"100","pos":"a","glosses":[],"synonyms":["c","hundred","one hundred"],"synonyms2":[["c","hundred","one hundred"]]}
+{"id":"oewn-1000-a","item":"1000","pos":"a","glosses":[],"synonyms":["k","m","one thousand","thousand"],"synonyms2":[["k","m","one thousand","thousand"]]}
+{"id":"oewn-1000th-a","item":"1000th","pos":"a","glosses":[],"synonyms":["thousandth"],"synonyms2":[["thousandth"]]}
+{"id":"oewn-100th-a","item":"100th","pos":"a","glosses":[],"synonyms":["centesimal","hundredth"],"synonyms2":[["centesimal","hundredth"]]}
+{"id":"oewn-101-a","item":"101","pos":"a","glosses":[],"synonyms":["ci","hundred and one","one hundred one"],"synonyms2":[["ci","hundred and one","one hundred one"]]}
+{"id":"oewn-101st-a","item":"101st","pos":"a","glosses":[],"synonyms":["hundred-and-first"],"synonyms2":[["hundred-and-first"]]}
+{"id":"oewn-105-a","item":"105","pos":"a","glosses":[],"synonyms":["cv","one hundred five"],"synonyms2":[["cv","one hundred five"]]}
+{"id":"oewn-105th-a","item":"105th","pos":"a","glosses":[],"synonyms":["hundred-and-fifth"],"synonyms2":[["hundred-and-fifth"]]}
+{"id":"oewn-10th-a","item":"10th","pos":"a","glosses":[],"synonyms":["tenth"],"synonyms2":[["tenth"]]}
+{"id":"oewn-11-a","item":"11","pos":"a","glosses":[],"synonyms":["eleven","xi"],"synonyms2":[["eleven","xi"]]}
+{"id":"oewn-110-a","item":"110","pos":"a","glosses":[],"synonyms":["cx","one hundred ten"],"synonyms2":[["cx","one hundred ten"]]}
+{"id":"oewn-110th-a","item":"110th","pos":"a","glosses":[],"synonyms":["hundred-and-tenth"],"synonyms2":[["hundred-and-tenth"]]}
+{"id":"oewn-115-a","item":"115","pos":"a","glosses":[],"synonyms":["cxv","one hundred fifteen"],"synonyms2":[["cxv","one hundred fifteen"]]}
+{"id":"oewn-115th-a","item":"115th","pos":"a","glosses":[],"synonyms":["hundred-and-fifteenth"],"synonyms2":[["hundred-and-fifteenth"]]}
+{"id":"oewn-11th-a","item":"11th","pos":"a","glosses":[],"synonyms":["eleventh"],"synonyms2":[["eleventh"]]}
+{"id":"oewn-12-a","item":"12","pos":"a","glosses":[],"synonyms":["dozen","twelve","xii"],"synonyms2":[["dozen","twelve","xii"]]}
+{"id":"oewn-120-a","item":"120","pos":"a","glosses":[],"synonyms":["cxx","one hundred twenty"],"synonyms2":[["cxx","one hundred twenty"]]}
+{"id":"oewn-120th-a","item":"120th","pos":"a","glosses":[],"synonyms":["hundred-and-twentieth"],"synonyms2":[["hundred-and-twentieth"]]}
+{"id":"oewn-125-a","item":"125","pos":"a","glosses":[],"synonyms":["cxxv","one hundred twenty-five"],"synonyms2":[["cxxv","one hundred twenty-five"]]}
+{"id":"oewn-125th-a","item":"125th","pos":"a","glosses":[],"synonyms":["hundred-and-twenty-fifth"],"synonyms2":[["hundred-and-twenty-fifth"]]}
+{"id":"oewn-12th-a","item":"12th","pos":"a","glosses":[],"synonyms":["twelfth"],"synonyms2":[["twelfth"]]}
+{"id":"oewn-13-a","item":"13","pos":"a","glosses":[],"synonyms":["thirteen","xiii"],"synonyms2":[["thirteen","xiii"]]}
+{"id":"oewn-130-a","item":"130","pos":"a","glosses":[],"synonyms":["cxxx","one hundred thirty"],"synonyms2":[["cxxx","one hundred thirty"]]}
+{"id":"oewn-130th-a","item":"130th","pos":"a","glosses":[],"synonyms":["hundred-and-thirtieth"],"synonyms2":[["hundred-and-thirtieth"]]}
+{"id":"oewn-135-a","item":"135","pos":"a","glosses":[],"synonyms":["cxxxv","one hundred thirty-five"],"synonyms2":[["cxxxv","one hundred thirty-five"]]}
+{"id":"oewn-135th-a","item":"135th","pos":"a","glosses":[],"synonyms":["hundred-and-thirty-fifth"],"synonyms2":[["hundred-and-thirty-fifth"]]}
+{"id":"oewn-13th-a","item":"13th","pos":"a","glosses":[],"synonyms":["thirteenth"],"synonyms2":[["thirteenth"]]}
+{"id":"oewn-14-a","item":"14","pos":"a","glosses":[],"synonyms":["fourteen","xiv"],"synonyms2":[["fourteen","xiv"]]}
+{"id":"oewn-140-a","item":"140","pos":"a","glosses":[],"synonyms":["cxl","one hundred forty"],"synonyms2":[["cxl","one hundred forty"]]}
+{"id":"oewn-140th-a","item":"140th","pos":"a","glosses":[],"synonyms":["hundred-and-fortieth"],"synonyms2":[["hundred-and-fortieth"]]}
+{"id":"oewn-145-a","item":"145","pos":"a","glosses":[],"synonyms":["cxlv","one hundred forty-five"],"synonyms2":[["cxlv","one hundred forty-five"]]}
+{"id":"oewn-145th-a","item":"145th","pos":"a","glosses":[],"synonyms":["hundred-and-forty-fifth"],"synonyms2":[["hundred-and-forty-fifth"]]}
+{"id":"oewn-14th-a","item":"14th","pos":"a","glosses":[],"synonyms":["fourteenth"],"synonyms2":[["fourteenth"]]}
+{"id":"oewn-15-a","item":"15","pos":"a","glosses":[],"synonyms":["fifteen","xv"],"synonyms2":[["fifteen","xv"]]}
+{"id":"oewn-150-a","item":"150","pos":"a","glosses":[],"synonyms":["cl","one hundred fifty"],"synonyms2":[["cl","one hundred fifty"]]}
+{"id":"oewn-150th-a","item":"150th","pos":"a","glosses":[],"synonyms":["hundred-and-fiftieth"],"synonyms2":[["hundred-and-fiftieth"]]}
+{"id":"oewn-155-a","item":"155","pos":"a","glosses":[],"synonyms":["clv","one hundred fifty-five"],"synonyms2":[["clv","one hundred fifty-five"]]}
+{"id":"oewn-155th-a","item":"155th","pos":"a","glosses":[],"synonyms":["hundred-and-fifty-fifth"],"synonyms2":[["hundred-and-fifty-fifth"]]}
+{"id":"oewn-15th-a","item":"15th","pos":"a","glosses":[],"synonyms":["fifteenth"],"synonyms2":[["fifteenth"]]}
+{"id":"oewn-16-a","item":"16","pos":"a","glosses":[],"synonyms":["sixteen","xvi"],"synonyms2":[["sixteen","xvi"]]}
+{"id":"oewn-160-a","item":"160","pos":"a","glosses":[],"synonyms":["clx","one hundred sixty"],"synonyms2":[["clx","one hundred sixty"]]}
+{"id":"oewn-160th-a","item":"160th","pos":"a","glosses":[],"synonyms":["hundred-and-sixtieth"],"synonyms2":[["hundred-and-sixtieth"]]}
+{"id":"oewn-165-a","item":"165","pos":"a","glosses":[],"synonyms":["clxv","one hundred sixty-five"],"synonyms2":[["clxv","one hundred sixty-five"]]}
+{"id":"oewn-165th-a","item":"165th","pos":"a","glosses":[],"synonyms":["hundred-and-sixty-fifth"],"synonyms2":[["hundred-and-sixty-fifth"]]}
+{"id":"oewn-16th-a","item":"16th","pos":"a","glosses":[],"synonyms":["sixteenth"],"synonyms2":[["sixteenth"]]}
+{"id":"oewn-17-a","item":"17","pos":"a","glosses":[],"synonyms":["seventeen","xvii"],"synonyms2":[["seventeen","xvii"]]}
+{"id":"oewn-170-a","item":"170","pos":"a","glosses":[],"synonyms":["clxx","one hundred seventy"],"synonyms2":[["clxx","one hundred seventy"]]}
+{"id":"oewn-170th-a","item":"170th","pos":"a","glosses":[],"synonyms":["hundred-and-seventieth"],"synonyms2":[["hundred-and-seventieth"]]}
+{"id":"oewn-175-a","item":"175","pos":"a","glosses":[],"synonyms":["clxxv","one hundred seventy-five"],"synonyms2":[["clxxv","one hundred seventy-five"]]}
+{"id":"oewn-175th-a","item":"175th","pos":"a","glosses":[],"synonyms":["hundred-and-seventy-fifth"],"synonyms2":[["hundred-and-seventy-fifth"]]}
+{"id":"oewn-17th-a","item":"17th","pos":"a","glosses":[],"synonyms":["seventeenth"],"synonyms2":[["seventeenth"]]}
+{"id":"oewn-18-a","item":"18","pos":"a","glosses":[],"synonyms":["eighteen","xviii"],"synonyms2":[["eighteen","xviii"]]}
+{"id":"oewn-180-a","item":"180","pos":"a","glosses":[],"synonyms":["clxxx","one hundred eighty"],"synonyms2":[["clxxx","one hundred eighty"]]}
+{"id":"oewn-180th-a","item":"180th","pos":"a","glosses":[],"synonyms":["hundred-and-eightieth"],"synonyms2":[["hundred-and-eightieth"]]}
+{"id":"oewn-18th-a","item":"18th","pos":"a","glosses":[],"synonyms":["eighteenth"],"synonyms2":[["eighteenth"]]}
+{"id":"oewn-19-a","item":"19","pos":"a","glosses":[],"synonyms":["nineteen","xix"],"synonyms2":[["nineteen","xix"]]}
+{"id":"oewn-190-a","item":"190","pos":"a","glosses":[],"synonyms":["one hundred ninety","xcl"],"synonyms2":[["one hundred ninety","xcl"]]}
+{"id":"oewn-190th-a","item":"190th","pos":"a","glosses":[],"synonyms":["hundred-and-ninetieth"],"synonyms2":[["hundred-and-ninetieth"]]}
+{"id":"oewn-19th-a","item":"19th","pos":"a","glosses":[],"synonyms":["nineteenth"],"synonyms2":[["nineteenth"]]}
+{"id":"oewn-1st-a","item":"1st","pos":"a","glosses":[],"synonyms":["first"],"synonyms2":[["first"]]}
+{"id":"oewn-2-a","item":"2","pos":"a","glosses":[],"synonyms":["ii","two"],"synonyms2":[["ii","two"]]}
+{"id":"oewn-2-dimensional-a","item":"2-dimensional","pos":"a","glosses":[],"synonyms":["flat","two-dimensional"],"synonyms2":[["flat","two-dimensional"]]}
+{"id":"oewn-20-a","item":"20","pos":"a","glosses":[],"synonyms":["twenty","xx"],"synonyms2":[["twenty","xx"]]}
+{"id":"oewn-200-a","item":"200","pos":"a","glosses":[],"synonyms":["cc","two hundred"],"synonyms2":[["cc","two hundred"]]}
+{"id":"oewn-200th-a","item":"200th","pos":"a","glosses":[],"synonyms":["two-hundredth"],"synonyms2":[["two-hundredth"]]}
+{"id":"oewn-20th-a","item":"20th","pos":"a","glosses":[],"synonyms":["twentieth"],"synonyms2":[["twentieth"]]}
+{"id":"oewn-21-a","item":"21","pos":"a","glosses":[],"synonyms":["twenty-one","xxi"],"synonyms2":[["twenty-one","xxi"]]}
+{"id":"oewn-21st-a","item":"21st","pos":"a","glosses":[],"synonyms":["twenty-first"],"synonyms2":[["twenty-first"]]}
+{"id":"oewn-22-a","item":"22","pos":"a","glosses":[],"synonyms":["twenty-two","xxii"],"synonyms2":[["twenty-two","xxii"]]}
+{"id":"oewn-22nd-a","item":"22nd","pos":"a","glosses":[],"synonyms":["twenty-second"],"synonyms2":[["twenty-second"]]}
+{"id":"oewn-23-a","item":"23","pos":"a","glosses":[],"synonyms":["twenty-three","xxiii"],"synonyms2":[["twenty-three","xxiii"]]}
+{"id":"oewn-23rd-a","item":"23rd","pos":"a","glosses":[],"synonyms":["twenty-third"],"synonyms2":[["twenty-third"]]}
+{"id":"oewn-24-a","item":"24","pos":"a","glosses":[],"synonyms":["twenty-four","xxiv"],"synonyms2":[["twenty-four","xxiv"]]}
+{"id":"oewn-24th-a","item":"24th","pos":"a","glosses":[],"synonyms":["twenty-fourth"],"synonyms2":[["twenty-fourth"]]}
+{"id":"oewn-25-a","item":"25","pos":"a","glosses":[],"synonyms":["twenty-five","xxv"],"synonyms2":[["twenty-five","xxv"]]}
+{"id":"oewn-25th-a","item":"25th","pos":"a","glosses":[],"synonyms":["twenty-fifth"],"synonyms2":[["twenty-fifth"]]}
+{"id":"oewn-26-a","item":"26","pos":"a","glosses":[],"synonyms":["twenty-six","xxvi"],"synonyms2":[["twenty-six","xxvi"]]}
+{"id":"oewn-26th-a","item":"26th","pos":"a","glosses":[],"synonyms":["twenty-sixth"],"synonyms2":[["twenty-sixth"]]}
+{"id":"oewn-27-a","item":"27","pos":"a","glosses":[],"synonyms":["twenty-seven","xxvii"],"synonyms2":[["twenty-seven","xxvii"]]}
+{"id":"oewn-27th-a","item":"27th","pos":"a","glosses":[],"synonyms":["twenty-seventh"],"synonyms2":[["twenty-seventh"]]}
+{"id":"oewn-28-a","item":"28","pos":"a","glosses":[],"synonyms":["twenty-eight","xxviii"],"synonyms2":[["twenty-eight","xxviii"]]}
+{"id":"oewn-28th-a","item":"28th","pos":"a","glosses":[],"synonyms":["twenty-eighth"],"synonyms2":[["twenty-eighth"]]}
+{"id":"oewn-29-a","item":"29","pos":"a","glosses":[],"synonyms":["twenty-nine","xxix"],"synonyms2":[["twenty-nine","xxix"]]}
+{"id":"oewn-29th-a","item":"29th","pos":"a","glosses":[],"synonyms":["twenty-ninth"],"synonyms2":[["twenty-ninth"]]}
+{"id":"oewn-2d-a","item":"2d","pos":"a","glosses":[],"synonyms":["2nd","second"],"synonyms2":[["2nd","second"]]}
+{"id":"oewn-2nd-a","item":"2nd","pos":"a","glosses":[],"synonyms":["2d","second"],"synonyms2":[["2d","second"]]}
+{"id":"oewn-3-a","item":"3","pos":"a","glosses":[],"synonyms":["iii","three"],"synonyms2":[["iii","three"]]}
+{"id":"oewn-3-dimensional-a","item":"3-dimensional","pos":"a","glosses":[],"synonyms":["third-dimensional","three-d","three-dimensional"],"synonyms2":[["third-dimensional","three-d","three-dimensional"]]}
+{"id":"oewn-3-membered-a","item":"3-membered","pos":"a","glosses":[],"synonyms":["three-membered"],"synonyms2":[["three-membered"]]}
+{"id":"oewn-30-a","item":"30","pos":"a","glosses":[],"synonyms":["thirty","xxx"],"synonyms2":[["thirty","xxx"]]}
+{"id":"oewn-300-a","item":"300","pos":"a","glosses":[],"synonyms":["ccc","three hundred"],"synonyms2":[["ccc","three hundred"]]}
+{"id":"oewn-300th-a","item":"300th","pos":"a","glosses":[],"synonyms":["three-hundredth"],"synonyms2":[["three-hundredth"]]}
+{"id":"oewn-30th-a","item":"30th","pos":"a","glosses":[],"synonyms":["thirtieth"],"synonyms2":[["thirtieth"]]}
+{"id":"oewn-31-a","item":"31","pos":"a","glosses":[],"synonyms":["thirty-one","xxxi"],"synonyms2":[["thirty-one","xxxi"]]}
+{"id":"oewn-31st-a","item":"31st","pos":"a","glosses":[],"synonyms":["thirty-first"],"synonyms2":[["thirty-first"]]}
