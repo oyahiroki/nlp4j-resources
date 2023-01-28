@@ -2,8 +2,6 @@
 
 ## jawiki-20221101-pages-articles-multistream-abstract_head1000.csv
 
-[[jawiki-20221101-pages-articles-multistream-abstract_head1000.csv|jawiki-20221101-pages-articles-multistream-abstract_head1000.csv]]
-
 Wikipedia Page abstract CSV Example in UTF-8 without BOM
 
 Wikipedia のダンプからAbstract部のテキストを抽出しCSVに変換したものの先頭1000行BOM無し
